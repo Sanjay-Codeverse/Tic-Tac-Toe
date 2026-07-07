@@ -40,7 +40,7 @@ tic-tac-toe/
 
 ## 🌐 Live Demo
 
-https://your-username.github.io/tic-tac-toe/
+https://sanjay-codeverse.github.io/tic-tac-toe/
 
 ## 👨‍💻 Author
 
